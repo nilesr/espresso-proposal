@@ -70,7 +70,7 @@
 
 \begin_layout Title
 Espresso - Experimental Safety and Stability Procedure with Runtime Endofunctori
-al Stability System Operation
+al Superior System Operation
 \end_layout
 
 \begin_layout Author
@@ -84,13 +84,6 @@ December 15th, 2015
 \begin_layout Standard
 Espresso is a web framework designed with the purpose of experimenting with
  the application of functional, typesafe programming concepts to Java.
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace defskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
